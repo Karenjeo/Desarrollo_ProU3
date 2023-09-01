@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Productos</title>
+<h2>Lista de productos</h2>
 </head>
 <body>
 

@@ -7,7 +7,7 @@
 <body>
 <h1><%= "Proyecto U3" %></h1>
 <br/>
-<a href="hello-servlet">Holaaaaaa </a>
+<a href="hello-servlet">Holaa </a>
 
 </body>
 </html>

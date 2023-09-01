@@ -1,3 +1,3 @@
-public class dao{
+public class dao1{
   
 }

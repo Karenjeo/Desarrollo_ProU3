@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSP - Hello Worl</title>
+  <title>JSP  </title>
 </head>
 <body>
 <h1><%= "Proyecto U3" %></h1>
 <br/>
-<a href="hello-servlet">Holaa Proyecto de Desarrollo</a>
+<a href="hello-servlet">Proyecto de Desarrollo</a>
 
 </body>
 </html>
